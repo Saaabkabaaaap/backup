@@ -87,9 +87,4 @@ final_app_keys = list(dict.fromkeys(final_app_keys))
 # --- LAUNCH ---
 
 open_apps_from_list(final_app_keys)
-
-
-
-sldkjfiosdiofhsfk
-sdfkljslidf
-dskjfjnjks
+# --- END OF SCRIPT ---
