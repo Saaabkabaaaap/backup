@@ -88,3 +88,8 @@ final_app_keys = list(dict.fromkeys(final_app_keys))
 
 open_apps_from_list(final_app_keys)
 # --- END OF SCRIPT ---
+nesnuifhuhsof
+efoisioef
+eiofjoisejf
+sejiof
+# --- END OF SCRIPT ---
