@@ -20,6 +20,23 @@
       "options": {
         "cwd": "${workspaceFolder}"
       }
+    },
+    {
+      "label": "Quick Versioned Backup",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "\"C:\\Users\\AMIT JAIN\\Python\\VCS\\Open Application\\.venv\\Scripts\\python.exe\" \"C:\\Users\\AMIT JAIN\\Python\\VCS\\Open Application\\quick_versioned_backup.py\""
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
     }
   ]
 }
+ 
